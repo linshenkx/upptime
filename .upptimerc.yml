@@ -9,16 +9,12 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/32978552?v=4
   name: 守护时光
   theme: night
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: 检测网站可用性
+  introTitle: "检测网站可用性"
+  introMessage: 守护每分每秒
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
     - title: 个人主页
       href: https://linshenkx.cn
 # Upptime also supports notifications, assigning issues, and more
