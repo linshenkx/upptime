@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/linshenkx.cn.ico",
     "slug": "",
     "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.09%",
+    "uptime": "99.02%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.02%",
     "time": 1830,
     "timeDay": 1934,
     "timeWeek": 1732,
     "timeMonth": 1830,
     "timeYear": 1830,
     "dailyMinutesDown": {
-      "2023-02-22": 0,
+      "2023-02-22": 9,
       "2023-02-06": 25,
       "2023-01-25": 47,
       "2022-12-08": 16,
@@ -29,18 +29,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/derper.linshenkx.cn.ico",
     "slug": "tailscale-derper",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1191,
     "timeDay": 1092,
     "timeWeek": 1031,
     "timeMonth": 1191,
     "timeYear": 1191,
     "dailyMinutesDown": {
-      "2023-02-22": 0
+      "2023-02-22": 9
     }
   },
   {
@@ -48,7 +48,7 @@
     "url": "https://ppc.linshenkx.cn",
     "icon": "https://icons.duckduckgo.com/ip3/ppc.linshenkx.cn.ico",
     "slug": "clash",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -59,6 +59,8 @@
     "timeWeek": 1056,
     "timeMonth": 1088,
     "timeYear": 1088,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-22": 0
+    }
   }
 ]
