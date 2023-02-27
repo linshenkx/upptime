@@ -4,9 +4,9 @@
     "url": "https://linshenkx.cn",
     "icon": "https://icons.duckduckgo.com/ip3/linshenkx.cn.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.34%",
@@ -16,6 +16,7 @@
     "timeMonth": 1811,
     "timeYear": 1811,
     "dailyMinutesDown": {
+      "2023-02-27": 0,
       "2023-02-22": 16,
       "2023-02-06": 25,
       "2023-01-25": 47,
@@ -28,9 +29,9 @@
     "url": "https://derper.linshenkx.cn",
     "icon": "https://icons.duckduckgo.com/ip3/derper.linshenkx.cn.ico",
     "slug": "tailscale-derper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -40,6 +41,7 @@
     "timeMonth": 1196,
     "timeYear": 1196,
     "dailyMinutesDown": {
+      "2023-02-27": 0,
       "2023-02-22": 16
     }
   },
