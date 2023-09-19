@@ -4,7 +4,7 @@
     "url": "https://linshenkx.cn",
     "icon": "https://icons.duckduckgo.com/ip3/linshenkx.cn.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
     "uptimeDay": "98.48%",
     "uptimeWeek": "99.78%",
@@ -12,7 +12,7 @@
     "uptimeYear": "99.49%",
     "time": 2309,
     "timeDay": 2658,
-    "timeWeek": 4325,
+    "timeWeek": 4328,
     "timeMonth": 3286,
     "timeYear": 2309,
     "dailyMinutesDown": {
@@ -81,7 +81,7 @@
     "uptimeYear": "99.86%",
     "time": 1283,
     "timeDay": 1319,
-    "timeWeek": 1380,
+    "timeWeek": 1288,
     "timeMonth": 1821,
     "timeYear": 1283,
     "dailyMinutesDown": {
