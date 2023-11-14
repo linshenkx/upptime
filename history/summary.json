@@ -16,6 +16,7 @@
     "timeMonth": 727,
     "timeYear": 2245,
     "dailyMinutesDown": {
+      "2023-11-14": 0,
       "2023-10-30": 31,
       "2023-10-20": 881,
       "2023-10-19": 552,
@@ -79,9 +80,9 @@
     "url": "https://ppc.linshenkx.cn",
     "icon": "https://icons.duckduckgo.com/ip3/ppc.linshenkx.cn.ico",
     "slug": "clash",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -91,6 +92,7 @@
     "timeMonth": 1031,
     "timeYear": 1248,
     "dailyMinutesDown": {
+      "2023-11-14": 0,
       "2023-09-24": 17,
       "2023-09-19": 22,
       "2023-04-26": 21,
