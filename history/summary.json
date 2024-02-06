@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/linshenkx.cn.ico",
     "slug": "",
     "status": "up",
-    "uptime": "85.84%",
+    "uptime": "85.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.63%",
-    "uptimeYear": "85.86%",
-    "time": 1921,
-    "timeDay": 305,
-    "timeWeek": 271,
-    "timeMonth": 522,
-    "timeYear": 1921,
+    "uptimeMonth": "60.91%",
+    "uptimeYear": "85.90%",
+    "time": 1918,
+    "timeDay": 329,
+    "timeWeek": 273,
+    "timeMonth": 526,
+    "timeYear": 1918,
     "dailyMinutesDown": {
       "2024-01-17": 1314,
       "2024-01-16": 1440,
@@ -84,8 +84,7 @@
       "2023-03-02": 123,
       "2023-02-28": 39,
       "2023-02-27": 22,
-      "2023-02-22": 16,
-      "2023-02-06": 25
+      "2023-02-22": 16
     }
   }
 ]
