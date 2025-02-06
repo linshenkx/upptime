@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/linshenkx.cn.ico",
     "slug": "",
     "status": "up",
-    "uptime": "93.01%",
+    "uptime": "93.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 209,
-    "timeWeek": 265,
-    "timeMonth": 254,
-    "timeYear": 322,
+    "time": 429,
+    "timeDay": 180,
+    "timeWeek": 243,
+    "timeMonth": 249,
+    "timeYear": 321,
     "dailyMinutesDown": {}
   }
 ]
