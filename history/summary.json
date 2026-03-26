@@ -1,19 +1,19 @@
 [
   {
-    "name": "个人主页",
-    "url": "https://linshenkx.cn",
-    "icon": "https://icons.duckduckgo.com/ip3/linshenkx.cn.ico",
+    "name": "官网",
+    "url": "https://always200.com",
+    "icon": "https://icons.duckduckgo.com/ip3/always200.com.ico",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "95.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 327,
+    "time": 298,
+    "timeDay": 96,
+    "timeWeek": 96,
+    "timeMonth": 317,
     "timeYear": 303,
     "dailyMinutesDown": {}
   }
