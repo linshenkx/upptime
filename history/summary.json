@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/always200.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "95.65%",
+    "uptime": "95.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 203,
-    "timeWeek": 175,
-    "timeMonth": 158,
-    "timeYear": 297,
+    "time": 290,
+    "timeDay": 196,
+    "timeWeek": 179,
+    "timeMonth": 159,
+    "timeYear": 298,
     "dailyMinutesDown": {}
   }
 ]
